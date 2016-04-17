@@ -1,0 +1,684 @@
+linenumber,fec_committee_id,transaction_id,entity_type,organization_name,last_name,first_name,middle_name,prefix,suffix,street_1,street_2,city,state,zip_code,election_code,date,amount,purpose,memo_code,memo_text,cycle
+SB21B,C00586537,D180680,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,27406.7,Direct Marketing,,,2016
+SB21B,C00586537,D180700,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,1700.72,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180710,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,567.4,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180730,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,537.51,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180740,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,4012.27,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180760,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-03-30,54263.74,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D180770,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-09,921.6,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180790,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-30,731.33,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180800,ORG,Lock Travel Management,,,,,,401 Park Ave S,Fl 8,New York,NY,100168808,,2016-03-31,48665.15,Travel,,,2016
+SB21B,C00586537,D180810,ORG,Palmer Group Media,,,,,,PO Box 30212,,New York,NY,100110112,,2016-03-24,10000.0,Technology Services,,,2016
+SB21B,C00586537,D180820,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-08,5.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180830,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-25,95.5,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180840,ORG,Winnick Productions,,,,,,250 W 103rd St,Apt 4C,New York,NY,100254474,,2016-03-31,1517.0,Event Production,,,2016
+SB21B,C00586537,D183840,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-31,50.22,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173460,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-21,12.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173470,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-05,25701.56,Direct Marketing,,,2016
+SB21B,C00586537,D173480,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,11167.05,Direct Marketing,,,2016
+SB21B,C00586537,D173490,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,16461.88,Direct Marketing,,,2016
+SB21B,C00586537,D173500,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,4305.78,Direct Marketing,,,2016
+SB21B,C00586537,D173520,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,780.48,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173530,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,2989.19,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173550,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-10,520.69,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173560,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-20,345.2,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173570,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-02-12,1520.64,Direct Marketing,,,2016
+SB21B,C00586537,D180689,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,1334.9,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180699,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,29720.2,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180679,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,12867.4,Direct Marketing,,,2016
+SB21B,C00586537,D182179,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-02-07,-5520.93,Revenue Processing Fees,,Reissued on 2/12/2016,2016
+SB21B,C00586537,D180719,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3857.05,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180729,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,4297.56,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180749,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,2115.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180759,IND,,Wnuk,Gregory,,,,19 Parkton Ave,,Worcester,MA,016053114,,2016-03-07,1500.0,Event Production,,Vendor Services,2016
+SB21B,C00586537,D180779,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-21,468.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180789,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-28,58.16,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180809,IND,,Clayton,Nigel,,,,155 Avenue,Apt 4C,New York,NY,10009,,2016-03-24,250.0,Event Production,,Vendor Services,2016
+SB21B,C00586537,D180819,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-07,34.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180839,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-03-18,8940.5,Tax Processing and Registration,,,2016
+SB21B,C00586537,D173469,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-05,93.3,Direct Marketing,,,2016
+SB21B,C00586537,D173479,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,15583.4,Direct Marketing,,,2016
+SB21B,C00586537,D173489,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,1450.44,Direct Marketing,,,2016
+SB21B,C00586537,D173499,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,87400.0,Direct Marketing,,,2016
+SB21B,C00586537,D173509,ORG,Cloud Spotter,,,,,,407 Brierhill Rd,,Deerfield,IL,600154401,,2016-02-26,350.0,Photography Services,,,2016
+SB21B,C00586537,D173519,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,1818.31,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173529,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,383.88,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173539,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-02-29,312338.95,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D173549,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-09,929.99,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173559,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-19,479.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173579,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-02-26,600.0,Database Services,,,2016
+SB21B,C00586537,D173589,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-16,20.5,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173599,ORG,Ticketmaster,,,,,,9348 Civic Center Dr,,Beverly Hills,CA,902103624,,2016-02-26,12696.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173609,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-01-05,8816.09,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173619,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-28,574111.46,Direct Marketing,,,2016
+SB21B,C00586537,D173639,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-10,4.94,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173659,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-31,33.54,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173669,ORG,Steerpike Productions,,,,,,250 W 57th St,Ste 1101,New York,NY,101071101,,2016-01-28,37347.1,Event Production,,,2016
+SB21B,C00586537,D173679,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-19,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D179899,IND,,Korge,Christopher,G.,,,230 Palermo Ave,"Korge and Korge, L.L.P.",Coral Gables,FL,331346606,,2016-03-15,5718.91,"Venue, Catering, Food & Beverages",,* In-Kind Received,2016
+SB21B,C00586537,D173580,ORG,Palmer Group Media,,,,,,PO Box 30212,,New York,NY,100110112,,2016-02-26,10000.0,Technology Services,,,2016
+SB21B,C00586537,D173590,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-18,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173600,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-02-12,19069.2,Tax Processing and Registration,,,2016
+SB21B,C00586537,D173610,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-01-04,1200000.0,Online Advertising,,,2016
+SB21B,C00586537,D173630,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-01,574.8,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173640,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-11,12.62,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173650,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-21,710.31,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173660,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-01-14,2329.12,Direct Marketing,,,2016
+SB21B,C00586537,D173670,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-04,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173680,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-21,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180630,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,2016-03-22,2175.49,Bank Fees,,,2016
+SB21B,C00586537,D180660,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,13086.8,Direct Marketing,,,2016
+SB21B,C00586537,D180690,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,1192.53,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180720,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,740.2,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180750,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,1302.33,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180780,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-21,515.51,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180640,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,447.7,Direct Marketing,,,2016
+SB21B,C00586537,D173510,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-12,632.88,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173620,ORG,"Chuck's Parking Service, Inc.",,,,,,13437 Ventura Blvd,Ste 218,Sherman Oaks,CA,914236113,,2016-01-28,3000.0,Parking,,,2016
+SB21B,C00586537,D180650,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,65103.74,Direct Marketing,,,2016
+SB21B,C00586537,D180670,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-25,124200.0,Direct Marketing,,,2016
+SB21B,C00586537,D180681,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,13707.45,Direct Marketing,,,2016
+SB21B,C00586537,D180691,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,2426.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180701,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,2000.88,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180711,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,904.8,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180721,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,904.8,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180731,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,538.6,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180741,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,6736.54,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180751,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,2135.6,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180761,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-03-31,317438.32,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D180771,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-10,1142.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180781,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-21,55.23,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180791,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-30,526.57,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180801,ORG,Lock Travel Management,,,,,,401 Park Ave S,Fl 8,New York,NY,100168808,,2016-03-31,8196.27,Travel,,,2016
+SB21B,C00586537,D180811,ORG,PDQ Printing of Las Vegas,,,,,,3820 S Valley View Blvd,,Las Vegas,NV,891032904,,2016-03-18,5366.09,Printing,,,2016
+SB21B,C00586537,D180821,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-10,35.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180831,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-28,70.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173461,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-24,6.14,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173471,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-05,68080.0,Direct Marketing,,,2016
+SB21B,C00586537,D173491,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,3673.66,Direct Marketing,,,2016
+SB21B,C00586537,D173501,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,2098.12,Direct Marketing,,,2016
+SB21B,C00586537,D173511,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-12,561.37,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173521,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,546.5,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173531,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,751.13,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173541,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-01,8.53,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173551,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-11,430.09,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173561,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-21,27.28,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173571,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-02-12,1640.71,Direct Marketing,,,2016
+SB21B,C00586537,D173581,ORG,Palmer Group Media,,,,,,PO Box 30212,,New York,NY,100110112,,2016-02-26,10150.0,Technology Services,,,2016
+SB21B,C00586537,D173611,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-01-14,20000.0,Online Advertising,,,2016
+SB21B,C00586537,D173621,ORG,Clark International,,,,,,PO Box 45212,,Omaha,NE,681450212,,2016-01-31,873.18,Event Security,,,2016
+SB21B,C00586537,D173631,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-02,996.96,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173641,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-12,791.01,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173651,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-22,312.39,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173661,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-01-21,2008.42,Direct Marketing,,,2016
+SB21B,C00586537,D173681,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-22,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180641,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,11862.0,Direct Marketing,,,2016
+SB21B,C00586537,D180671,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,1575.75,Direct Marketing,,,2016
+SB21B,C00586537,D180621,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-01,11.78,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180631,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-03-07,7246.32,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173481,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,28758.69,Direct Marketing,,,2016
+SB21B,C00586537,D173591,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-19,29.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173671,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-04,10.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180651,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,31257.68,Direct Marketing,,,2016
+SB21B,C00586537,D180661,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,19323.04,Direct Marketing,,,2016
+SB21B,C00586537,D180672,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,6563.64,Direct Marketing,,,2016
+SB21B,C00586537,D180682,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,353.19,Direct Marketing,,,2016
+SB21B,C00586537,D180692,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,5049.59,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180702,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,1857.7,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180712,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,5677.84,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180722,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-24,1328.64,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180732,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,9388.18,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180742,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,6034.89,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180752,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,1502.01,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180762,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-01,582.64,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180772,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-11,923.39,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180782,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-21,24.85,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180792,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-31,457.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180802,IND,,Millen,Lucas,,,,305 Stockholm St,Apt 4R,Brooklyn,NY,112373970,,2016-03-31,250.0,Event Production,,Vendor Services,2016
+SB21B,C00586537,D180812,ORG,Postmaster,,,,,,421 8th Ave,,New York,NY,100017800,,2016-03-04,50000.0,Postage,,,2016
+SB21B,C00586537,D180822,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-11,6.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180832,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-29,2.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D183842,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-01-14,1716.54,Direct Marketing,,,2016
+SB28A,C00586537,D170058,IND,,Rippeteau,Judith,,,,4447 Volta Pl NW,,Washington,DC,200072020,,2016-03-17,11.0,Contribution Refund,,,2016
+SB28A,C00586537,D170128,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D132878,IND,,Ross,Jordan,,,,180 W 20th St,Apt 12E,New York,NY,100113656,,2016-02-17,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D170638,IND,,Clausen,Ruth,,,,2627 N Albany Ave,,Chicago,IL,606471601,,2016-03-21,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D170189,IND,,Love,Lindsey,,,,2701 Calvert St NW,Apt 826,Washington,DC,200082630,,2016-03-18,4.5,Contribution Refund,,,2016
+SB28A,C00586537,D144859,IND,,Regina,Robert,,,,2 5th Ave,Apt 11A,New York,NY,100118838,,2016-02-27,3000.0,Contribution Refund,,,2016
+SB28A,C00586537,D145119,IND,,Kading,Bradley,,,,522 9th St SE,,Washington,DC,200032838,,2016-02-27,3400.0,Contribution Refund,,,2016
+SB28A,C00586537,D156279,IND,,Smith,Daniel,,,,103 Grosvenor Road,Australia 6050,Mount Lawley,,,,2016-03-03,329.65,Contribution Refund,,,2016
+SB28A,C00586537,D167569,IND,,Boyer,Susan,Alice,,,3900 S College Rd,,Wilmington,NC,284122009,,2016-03-12,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D142029,IND,,Diacci,Paolo,,,,Coral Canalgrande 9,Italy 41100,Modena,,,,2016-02-24,5400.0,Contribution Refund,,,2016
+SB28A,C00586537,D124679,IND,,Wiley,Anita,,,,1501 Old Black Horse Pike,Apt U5,Blackwood,NJ,080124918,,2016-02-12,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D169929,IND,,Frasure,Pamela,,,,8966 SE Craig CT,,Lathrop,MO,644658576,,2016-03-16,112.84,Contribution Refund,,,2016
+SB28A,C00586537,D170129,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170469,IND,,Brandon,Cheryl,,,,51 Catalpa Ave,,Mill Valley,CA,949412801,,2016-03-20,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D177939,IND,,Waymire,Ronald,,,,118 Marr Ct,,Crown Point,IN,463074611,,2016-03-29,50.0,Contribution Refund,,,2016
+SB28A,C00586537,D170589,IND,,Hernandez,Joe,,,,1611 S Montreal Ave,,Dallas,TX,752087744,,2016-03-21,236.45,Contribution Refund,,,2016
+SB28A,C00586537,D172369,IND,,Greagan,June,,,,810 Chestnut St,,Albany,NY,122031502,,2016-03-22,300.0,Contribution Refund,,,2016
+SB28A,C00586537,D133119,IND,,Snyder,Mildred,,Ms.,,118 Centre Court Rd,,Charleston,WV,253142386,,2016-01-06,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D143879,IND,,Bentzen,Jayne,,,,255 W 94th St,11U,New York,NY,100256999,,2016-02-26,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D170769,IND,,Gotthelf,Nina,,,,Alte Landstrasse 29,"Switzerland, 8802",Kilchberg,,,,2016-03-22,306.55,Contribution Refund,,,2016
+SB28C,C00586537,D179925,PAC,NEA Fund for Children and Public Education,,,,,,1201 16th St NW,Ste 418,Washington,DC,200363201,,2016-03-31,10000.0,Contribution Refund,,,2016
+SB28C,C00586537,D179926,PAC,"American Federation of Teachers, AFL-CIO Committee on Political Education",,,,,,555 New Jersey Ave NW,,Washington,DC,200012029,,2016-03-31,15000.0,Contribution Refund,,,2016
+SB28C,C00586537,D179927,PAC,"American Federation of State, County & Municipal Employees PEOPLE",,,,,,1625 L St NW,,Washington,DC,200365665,,2016-03-31,5000.0,Contribution Refund,,,2016
+SB28C,C00586537,D179928,IND,,Martinez,Leopoldo,,,,7817 Falstaff Rd,,McLean,VA,221022724,,2016-03-31,10000.0,Contribution Refund,,,2016
+SB28C,C00586537,D170489,PAC,International Union of Operating Engineers Stationary Engineers Local 139,,,,,,PO Box 130,,Pewaukee,WI,530720130,,2016-03-18,5000.0,Contribution Refund,,,2016
+SB29,C00586537,D182042,ORG,Madison Square Garden,,,,,,1260 Avenue of the Americas,,New York,NY,100201701,,2016-03-04,326768.1,Return of Revenue Fees,,,2016
+SB21B,C00586537,D180825,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-17,20.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180835,ORG,Ticketmaster,,,,,,9348 Civic Center Dr,,Beverly Hills,CA,902103624,,2016-03-04,4001.4,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173455,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-01,96.88,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173465,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-02-05,11499.98,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173475,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,4947.68,Direct Marketing,,,2016
+SB21B,C00586537,D173485,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,11558.29,Direct Marketing,,,2016
+SB21B,C00586537,D173495,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,1415.96,Direct Marketing,,,2016
+SB21B,C00586537,D173505,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,293421.19,Direct Marketing,,,2016
+SB21B,C00586537,D173515,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,1258.3,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173535,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,1103.55,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173545,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-05,821.23,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173555,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-16,6.79,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173565,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-25,185.38,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173575,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-02-12,5520.93,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173585,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-08,10.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173595,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-25,58.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173615,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-14,164144.57,Direct Marketing,,,2016
+SB21B,C00586537,D173625,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-01-22,135798.99,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D173635,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-06,183.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173645,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-16,383.71,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173655,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-27,0.08,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173665,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-01-14,750.0,Database Services,,,2016
+SB21B,C00586537,D173675,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-12,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180625,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-13,9.97,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180635,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-31,2260349.68,Online Advertising,,,2016
+SB21B,C00586537,D173525,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,3062.71,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173605,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-20,0.24,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180645,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,9786.98,Direct Marketing,,,2016
+SB21B,C00586537,D180655,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,8.76,Direct Marketing,,,2016
+SB21B,C00586537,D180665,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,637871.52,Direct Marketing,,,2016
+SB21B,C00586537,D180676,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,108100.0,Direct Marketing,,,2016
+SB21B,C00586537,D180686,ORG,Eques,,,,,,109 E 17th St,Ste 63,Cheyenne,WY,820014584,,2016-03-31,2185.71,Event Security,,,2016
+SB21B,C00586537,D180696,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,16.05,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180706,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3367.1,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180716,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,461.51,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180726,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,969.78,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180736,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,311.62,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180746,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,3863.94,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180756,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,4189.07,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180766,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-05,547.83,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180776,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-15,650.76,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180786,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-25,535.02,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180796,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-03-07,1830.95,Direct Marketing,,,2016
+SB21B,C00586537,D180806,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-03-07,600.0,Database Services,,,2016
+SB21B,C00586537,D180816,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-02,9.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180826,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-18,55.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180836,ORG,Ticketmaster,,,,,,9348 Civic Center Dr,,Beverly Hills,CA,902103624,,2016-03-18,2749.2,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173456,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-08,153.04,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173476,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,15744.82,Direct Marketing,,,2016
+SB21B,C00586537,D173486,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,37373.79,Direct Marketing,,,2016
+SB21B,C00586537,D173496,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,2040.85,Direct Marketing,,,2016
+SB21B,C00586537,D173506,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,6376.5,Direct Marketing,,,2016
+SB21B,C00586537,D173516,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,817.95,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173526,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,15626.12,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173536,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-29,717.94,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173546,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-06,572.76,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173556,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-16,456.63,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173566,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-26,738.32,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173586,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-11,20.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173596,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-26,15.5,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173606,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-24,13.98,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173616,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-21,198597.09,Direct Marketing,,,2016
+SB21B,C00586537,D173626,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-01-30,203811.29,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D173636,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-07,146.84,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173646,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-17,27.37,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173656,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-28,811.1,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173666,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-01-28,8487.5,Database Services,,,2016
+SB21B,C00586537,D173676,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-14,19246.87,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180626,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-20,32.8,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180636,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-31,16500.0,Digital Consulting,,,2016
+SB21B,C00586537,D173466,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-02-08,644.32,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173576,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-02-26,26659.37,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180646,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,2348.26,Direct Marketing,,,2016
+SB21B,C00586537,D180656,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,2739.68,Direct Marketing,,,2016
+SB21B,C00586537,D180666,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-24,1550.0,Direct Marketing,,,2016
+SB21B,C00586537,D180677,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,14695.8,Direct Marketing,,,2016
+SB21B,C00586537,D180687,ORG,Fantastic Fabrics & Promotions Inc.,,,,,,4R Bethpage Court,,Hicksville,NY,11801,,2016-03-07,14719.5,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180697,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3441.02,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180707,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,957.12,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180717,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,1367.64,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180727,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,3004.17,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180737,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,242.77,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180747,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,4484.61,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180757,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,7015.48,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180767,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-06,31.94,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180777,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-16,1131.23,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180787,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-28,439.39,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180797,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-03-18,2157.34,Direct Marketing,,,2016
+SB21B,C00586537,D180817,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-03,1.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180827,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-21,30.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173457,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-10,74.45,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173467,ORG,BML Blackbird,,,,,,1 Aquarium Dr,,Secaucus,NJ,070941917,,2016-02-29,31250.0,Event Production,,,2016
+SB21B,C00586537,D173477,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,78583.28,Direct Marketing,,,2016
+SB21B,C00586537,D173487,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,13867.25,Direct Marketing,,,2016
+SB21B,C00586537,D173497,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,499.98,Direct Marketing,,,2016
+SB21B,C00586537,D173507,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,10443.91,Direct Marketing,,,2016
+SB21B,C00586537,D173517,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,4954.1,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173527,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,22983.24,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173537,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-29,720.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173557,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-17,477.93,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173567,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-27,605.28,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173577,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-02-26,24725.01,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173587,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-12,10.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173597,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-29,20.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173607,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-28,41.71,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173617,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-22,58320.0,Direct Marketing,,,2016
+SB21B,C00586537,D173637,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-08,169.65,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173647,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-18,38.03,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173657,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-29,305.87,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173667,ORG,PDQ Printing of Las Vegas,,,,,,3820 S Valley View Blvd,,Las Vegas,NV,891032904,,2016-01-28,7532.58,Printing,,,2016
+SB21B,C00586537,D173677,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-14,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180807,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-03-07,5250.0,Database Services,,,2016
+SB21B,C00586537,D180837,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-03-14,93548.35,Tax Processing and Registration,,,2016
+SB21B,C00586537,D180627,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-28,2.2,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180637,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-31,282170.32,Online Advertising,,,2016
+SB21B,C00586537,D173547,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-07,16.53,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173627,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-01-30,5400.0,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D180647,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,29238.75,Direct Marketing,,,2016
+SB21B,C00586537,D180657,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,3691.5,Direct Marketing,,,2016
+SB21B,C00586537,D180667,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-24,801.0,Direct Marketing,,,2016
+SB21B,C00586537,D180678,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,7236.0,Direct Marketing,,,2016
+SB21B,C00586537,D180688,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,6614.29,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180698,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3359.49,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180708,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,4599.06,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180818,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-04,27.5,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180718,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,1140.48,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180738,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,6008.47,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180748,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,2176.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180768,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-07,12.72,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180778,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-17,651.15,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180798,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-03-18,2163.3,Direct Marketing,,,2016
+SB21B,C00586537,D180808,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-03-24,8487.5,Database Services,,,2016
+SB21B,C00586537,D180828,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-22,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180838,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-03-18,4472.0,Tax Processing and Registration,,,2016
+SB21B,C00586537,D173458,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-16,98.04,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173468,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-02-01,845118.0,Online Advertising,,,2016
+SB21B,C00586537,D173478,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,2205.53,Direct Marketing,,,2016
+SB21B,C00586537,D173498,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,38.4,Direct Marketing,,,2016
+SB21B,C00586537,D173508,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,4000.0,Direct Marketing,,,2016
+SB21B,C00586537,D173518,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,1284.34,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173528,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,20372.47,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173538,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-02-24,54082.65,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D173548,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-08,13.07,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173558,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-18,842.92,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173568,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-28,23.82,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173578,ORG,NGP Van Inc.,,,,,,1101 15th St NW,Ste 500,Washington,DC,200055006,,2016-02-04,8487.5,Database Services,,,2016
+SB21B,C00586537,D173588,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-16,24756.21,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173608,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,2016-01-28,3169.4,Bank Fees,,,2016
+SB21B,C00586537,D173618,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-28,409800.02,Direct Marketing,,,2016
+SB21B,C00586537,D173628,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-01-30,14623.0,Salary and Overhead Expenses,,,2016
+SB21B,C00586537,D173638,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-09,1584.98,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173648,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-19,32.67,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173658,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-30,346.45,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173668,ORG,RMI,,,,,,121 Varick St,,New York,NY,100131408,,2016-01-14,930.88,Printing,,,2016
+SB21B,C00586537,D173678,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-14,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180728,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,564.27,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180758,ORG,Gray Matter Visual,,,,,,18 Bridge St,Ste 4H,Brooklyn,NY,112011107,,2016-03-01,4715.0,Event Production,,,2016
+SB21B,C00586537,D180788,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-28,15.7,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180628,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-28,22.6,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180638,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-31,16500.0,Digital Consulting,,,2016
+SB21B,C00586537,D173488,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,34657.49,Direct Marketing,,,2016
+SB21B,C00586537,D173598,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-29,3.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180648,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-14,80500.0,Direct Marketing,,,2016
+SB21B,C00586537,D180658,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,3198.85,Direct Marketing,,,2016
+SB21B,C00586537,D180668,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-24,419173.72,Direct Marketing,,,2016
+SB21B,C00586537,D184999,IND,,Korge,Christopher,G.,,,230 Palermo Ave,"Korge and Korge, L.L.P.",Coral Gables,FL,331346606,,2016-01-15,779.0,"Catering, Food & Beverages",,* In-Kind Received,2016
+SB21B,C00586537,D180649,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,17306.3,Direct Marketing,,,2016
+SB21B,C00586537,D180709,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3466.43,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180739,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,3917.84,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180769,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-08,872.01,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180799,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-03-18,1723.24,Direct Marketing,,,2016
+SB21B,C00586537,D180829,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-24,10.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180629,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-30,15.87,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180639,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,523.6,Direct Marketing,,,2016
+SB21B,C00586537,D173459,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-18,15.41,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173569,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-29,35.41,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173649,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-20,345.17,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180659,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,2751.03,Direct Marketing,,,2016
+SB21B,C00586537,D180669,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-24,4000.0,Direct Marketing,,,2016
+SB21B,C00586537,D179920,ORG,Hill Country,,,,,,345 Adams St,,Brooklyn,NY,112013719,,2015-12-16,2407.5,"Catering, Food & Beverages",X,,2016
+SB21B,C00586537,D179921,ORG,St. Regis Hotel,,,,,,2 E 55th St,,New York,NY,100223103,,2015-12-18,52550.0,"Catering, Food & Beverages",X,,2016
+SB21B,C00586537,D179922,ORG,St. Regis Hotel,,,,,,2 E 55th St,,New York,NY,100223103,,2015-12-29,2310.14,"Catering, Food & Beverages",X,,2016
+SB21B,C00586537,D179923,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-01-01,360.0,Credit Card Processing Fees,X,,2016
+SB21B,C00586537,D179919,ORG,JW Marriot,,,,,,160 Central Park S,,New York,NY,100191502,,2015-12-10,2342.4,Venue,X,,2016
+SB21B,C00586537,D172580,ORG,American Express,,,,,,PO Box 1270,,Newark,NJ,071011270,,2016-02-16,4.56,Credit Card Payment,,Details below if itemized,2016
+SB21B,C00586537,D179912,ORG,Shopify,,,,,,1209 N Orange St,,Wilmington,DE,198011120,,2016-02-11,1045.99,Software,X,,2016
+SB21B,C00586537,D179913,ORG,Waldorf,,,,,,11 E Walton St,,Chicago,IL,606111412,,2016-02-28,4677.0,"Catering, Food & Beverages",X,,2016
+SB21B,C00586537,D179914,ORG,"Clair Bros Audio Ent, Inc.",,,,,,PO Box 396,,Lititz,PA,175430396,,2016-03-01,19843.75,Audio Visual Services,X,,2016
+SB21B,C00586537,D179915,ORG,Atomic Rental,,,,,,425 Front St,,Lititz,PA,175431712,,2016-03-01,2161.4,Equipment Rental,X,,2016
+SB21B,C00586537,D179916,ORG,JackMonkey Catering,,,,,,75 9th Ave,,New York,NY,100117006,,2016-03-02,11606.08,"Catering, Food & Beverages",X,,2016
+SB21B,C00586537,D179917,ORG,Shooting Star Coaches Inc,,,,,,PO Box 258,,East Hanover,NJ,079360258,,2016-03-07,1899.87,Transportation,X,,2016
+SB22,C00586537,D80960,PTY,Ohio Democratic Party,,,,,,340 E Fulton St,,Columbus,OH,432155418,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179910,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-03-31,3750000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80941,PTY,Democratic State Central Committee of LA,,,,,,PO Box 4385,,Baton Rouge,LA,708214385,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80961,PTY,Oklahoma Democratic Party,,,,,,4100 N Lincoln Blvd,,Oklahoma City,OK,731055209,,2016-01-04,140000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179901,PTY,New Hampshire Democratic Party,,,,,,105 N State St,,Concord,NH,033014334,,2016-01-22,45000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179911,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-02-29,4500000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80792,PTY,Democratic Party of Arkansas,,,,,,1300 W Capitol Ave,,Little Rock,AR,722012916,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80882,PTY,Idaho State Democratic Party,,,,,,PO Box 445,,Boise,ID,837010445,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80952,PTY,Nevada State Democratic Party,,,,,,409 Horn St,,Las Vegas,NV,891072121,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179902,PTY,New Hampshire Democratic Party,,,,,,105 N State St,,Concord,NH,033014334,,2016-01-25,50000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80963,PTY,Democratic Party of Oregon,,,,,,232 NE 9th Ave,,Portland,OR,972322915,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80993,PTY,Democratic Party of Virginia,,,,,,1710 E Franklin St,,Richmond,VA,232237025,,2016-01-04,40000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179903,PTY,New Hampshire Democratic Party,,,,,,105 N State St,,Concord,NH,033014334,,2016-01-26,35000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80864,PTY,Democratic Executive Committee of Florida,,,,,,214 S Bronough St,,Tallahassee,FL,323011705,,2016-01-05,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80994,PTY,Democratic Party of Virginia,,,,,,1710 E Franklin St,,Richmond,VA,232237025,,2016-01-05,40000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179904,PTY,DNC Services Corporation/Democratic National Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,2016-02-01,1500000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80935,PTY,Indiana Democratic Congressional Victory Committee,,,,,,115 W Washington St,Ste 1165,Indianapolis,IN,462043418,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80985,PTY,Tennessee Democratic Party,,,,,,1900 Church St,Ste 203,Nashville,TN,372032286,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80995,PTY,Democratic Party of Virginia,,,,,,1710 E Franklin St,,Richmond,VA,232237025,,2016-01-06,35000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179905,PTY,DNC Services Corporation/Democratic National Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,2016-03-01,1650000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80866,PTY,Georgia Federal Elections Committee,,,,,,PO Box 89202,,Atlanta,GA,303120202,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179906,PTY,DNC Services Corporation/Democratic National Committee,,,,,,430 S Capitol St SE,,Washington,DC,200034024,,2016-03-01,350000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80947,PTY,Minnesota Democratic-Farmer-Labor Party,,,,,,255 Plato Blvd E,,Saint Paul,MN,551071623,,2016-01-04,150000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80937,PTY,Kentucky State Democratic Central Executive Committee,,,,,,PO Box 694,,Frankfort,KY,406020694,,2016-01-04,73000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80997,PTY,Democratic Party of Wisconsin,,,,,,15 N Pinckney St,Ste 200,Madison,WI,537032833,,2016-03-18,12500.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179907,PTY,Democratic Party of Wisconsin,,,,,,15 N Pinckney St,Ste 200,Madison,WI,537032833,,2016-01-04,207278.19,Transfer to Affiliate,,,2016
+SB22,C00586537,D80858,PTY,Colorado Democratic Party,,,,,,789 N Sherman St,Ste 110,Denver,CO,802033530,,2016-01-04,70000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80958,PTY,North Carolina Democratic Party - Federal,,,,,,220 Hillsborough St,,Raleigh,NC,276031724,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80988,PTY,Texas Democratic Party,,,,,,4818 E Ben White Blvd,Ste 104,Austin,TX,787417233,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179908,PTY,Nevada State Democratic Party,,,,,,409 Horn St,,Las Vegas,NV,891072121,,2016-03-18,26000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D80969,PTY,Democratic Party of South Carolina,,,,,,PO Box 5965,,Columbia,SC,292505965,,2016-01-04,80000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D173629,CCM,Hillary for America,,,,,,PO Box 5256,,New York,NY,101855256,,2016-01-31,1200000.0,Transfer to Affiliate,,,2016
+SB22,C00586537,D179909,PTY,Colorado Democratic Party,,,,,,789 N Sherman St,Ste 110,Denver,CO,802033530,,2016-03-16,12000.0,Transfer to Affiliate,,,2016
+SB28A,C00586537,D167570,IND,,Guodong,Ni,,,,"No. 332, Section 1, Daye Rd",Taoyuan District Taiwan 330,Taoyuan City,,,,2016-03-12,507.15,Contribution Refund,,,2016
+SB28A,C00586537,D144860,IND,,Cohen,Betsy,,,,40 East 78th Street,Apartment 11B,New York,NY,10075,,2016-02-27,1500.0,Contribution Refund,,,2016
+SB28A,C00586537,D130490,IND,,Ruiz,Emma,,,,7212 Sublime Ave,,Las Vegas,NV,891301157,,2016-02-15,440.55,Contribution Refund,,,2016
+SB28A,C00586537,D124450,IND,,Knotts,Addie,,,,10300 Morado Cv,Apt 304,Austin,TX,787595627,,2016-02-12,235.0,Contribution Refund,,,2016
+SB28A,C00586537,D172430,IND,,Omear,Jodi,,,,3444 Fairfax Dr,937,Arlington,VA,222014442,,2016-03-23,203.44,Contribution Refund,,,2016
+SB28A,C00586537,D140850,IND,,Kukula,Patti,,,,494 Shoreham Rd,,Grosse Pointe Woods,MI,482362468,,2016-02-23,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D162690,IND,,Rummel,Cheryl,,,,PO Box 72,470 Main St E,Maynard,IA,506550072,,2016-03-09,8.5,Contribution Refund,,,2016
+SB28A,C00586537,D157360,IND,,Thorsteinson,Janet,,,,201-1422 Wellington St W,Canada K1Y 0X7,Ottawa,ON,,,2016-03-04,245.55,Contribution Refund,,,2016
+SB28A,C00586537,D162990,IND,,Nicolas,Carrie,,,,2000 Wimberly Ln,,Austin,TX,787351407,,2016-03-09,214.75,Contribution Refund,,,2016
+SB28A,C00586537,D142030,IND,,Frost,Tracey,,,,416 Washington St,# Phb,New York,NY,100132067,,2016-02-24,2000.0,Contribution Refund,,,2016
+SB28A,C00586537,D142090,IND,,Cox,Mary-Eileen,,,,71 Kinderhook St,,Chatham,NY,120371218,,2016-02-24,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D169180,IND,,Marcus,Jay,,,,1 River Pl,Apt 728,New York,NY,100364365,,2016-03-14,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D137780,IND,,Utermohlen,Alison,,,,1916 Windsor Rd,,Alexandria,VA,223071105,,2016-02-21,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D148540,IND,,Jemmott,David,,,,26 Rosewood Ln,,Wantagh,NY,117931512,,2016-02-29,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D170130,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170340,IND,,King,Michelle,,,,255 W 94th St,,New York,NY,100256999,,2016-03-19,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D73830,IND,,Matsuda,Roger,Shigeyo,,,4281 Express Lane,Suite N6542,Sarrasota,FL,34238,,2016-01-07,184.95,Contribution Refund,,,2016
+SB28A,C00586537,D170800,IND,,Brookes,Elizabeth,,,,1255 Babb Ct,Apt 303,San Jose,CA,951256261,,2016-03-22,194.15,Contribution Refund,,,2016
+SB28A,C00586537,D160641,IND,,Johnson,Marcia,,,,1104 Piedras Rojas,,Santa Fe,NM,875018857,,2016-03-07,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D161551,IND,,Becker,Michale,,,,888 8th Ave,# C,New York,NY,100195704,,2016-03-02,375.0,Contribution Refund,,,2016
+SB28A,C00586537,D172371,IND,,Allustiarte,Ben,,,,1021 Stanford Ave,,Modesto,CA,953505051,,2016-03-22,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D172411,IND,,Delhaes,Philippe,,,,Rue du Pot d'Or 10A,"Belgium, 4000",Liege,,,,2016-03-23,207.15,Contribution Refund,,,2016
+SB28A,C00586537,D167571,IND,,Demanovich,Ron,,,,66 Hill Crescenct,"Canada, M1M1J4",Toronto,ON,,,2016-03-12,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D130481,ORG,Korth & Shannahan Painting Company,,,,,,99 Castleton St,,Pleasantville,NY,105703460,,2016-02-15,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D179861,IND,,Poupard,Hannah,,,,155 W 60th St,Fordham University,New York,NY,100237472,,2016-03-31,304.0,Contribution Refund,,,2016
+SB28A,C00586537,D179431,IND,,McKenzie,Wanda,,,,2607 Jesters Ct,,Marietta,GA,300683571,,2016-03-30,209.05,Contribution Refund,,,2016
+SB28A,C00586537,D169471,IND,,Sayad,Emil,,,,5358 Starflower Way,,Livermore,CA,945516932,,2016-03-14,78.44,Contribution Refund,,,2016
+SB28A,C00586537,D137451,IND,,Baulding,James,,,,PO Box 10741,,Greensboro,NC,274040741,,2016-02-21,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D170131,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D148771,IND,,Shelly,Sandra,,,,2558 Dogwood Rd,,Timmonsville,SC,291618231,,2016-02-29,81.64,Contribution Refund,,,2016
+SB28A,C00586537,D177941,IND,,Austin,Victoria,,,,5314 Crown Ct,,Castro Valley,CA,945522616,,2016-03-29,300.0,Contribution Refund,,,2016
+SB28A,C00586537,D144161,IND,,Bernstein,Danielle,,,,155 W 21st St,4H,New York,NY,100113234,,2016-02-26,750.0,Contribution Refund,,,2016
+SB28A,C00586537,D155482,IND,,Clark,Georgia,,,,667 Merlot Court,"Canada, L5H4M4",Mississauga,ON,,,2016-03-02,288.3,Contribution Refund,,,2016
+SB28A,C00586537,D145122,IND,,Hannon,Julian,,,,258 Saint Nicholas Ave,Apt Phc,New York,NY,100275351,,2016-02-27,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D161552,IND,,Lingle,Elaine,,,,177 Church Hill Rd,,Fairfield,CT,068251325,,2016-03-01,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D156272,IND,,Rahmani,Kenan,,,,5518 Salem Dr S,,Carmel,IN,460338585,,2016-03-03,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D167572,IND,,Demanovich,Ron,,,,66 Hill Crescenct,"Canada, M1M1J4",Toronto,ON,,,2016-03-12,23.55,Contribution Refund,,,2016
+SB28A,C00586537,D108572,IND,,Tedore,Carrie,,,,804 W 3rd St,,Dubuque,IA,520016605,,2016-02-01,25.0,Contribution Refund,,,2016
+SB28A,C00586537,D140872,IND,,Eriksson,Hans,,,,Mjolnarvagen 16,Sweden SE-131 31,Nacka,,,,2016-02-23,253.55,Contribution Refund,,,2016
+SB28A,C00586537,D144162,IND,,Namer,Christine,,,,31 W 11th St,Apt 3A,New York,NY,100118617,,2016-02-26,1700.0,Contribution Refund,,,2016
+SB28A,C00586537,D173212,IND,,Boswell,Jim,,,,173 Parkway Dr,,Littleton,NC,278509137,,2016-03-26,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D173312,IND,,Wilson,Herbert,,,,525 Lazy Willow Ln,,Lawrenceville,GA,300442005,,2016-03-25,150.0,Contribution Refund,,,2016
+SB28A,C00586537,D130492,IND,,Hartmeyer,Rosarie,,,,11 Crown Ct,,Orinda,CA,945634206,,2016-02-15,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D179862,IND,,Poupard,Hannah,,,,155 W 60th St,Fordham University,New York,NY,100237472,,2016-03-31,131.25,Contribution Refund,,,2016
+SB28A,C00586537,D136172,IND,,Fahey,Dion,,,,525 Lonsdale Street,List G Barristers Australia 3000,Melbourne,,,,2016-02-20,208.65,Contribution Refund,,,2016
+SB28A,C00586537,D157642,IND,,Leal,Rebecca,,,,60 Water St,Apt 724,Brooklyn,NY,112011978,,2016-02-29,125.0,Contribution Refund,,,2016
+SB28A,C00586537,D168482,IND,,Regal,Guy,,,,3200 Skillman Ave,,Long Island City,NY,111012309,,2016-03-13,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D177762,IND,,Schnydrig,Richard,,,,Bahnhofplatz 1,Switzerland 3900,Brig,,,,2016-03-29,248.55,Contribution Refund,,,2016
+SB28A,C00586537,D142042,IND,,Portlock,Christopher,,,,79 Maplewood Ave,,Hempstead,NY,115506441,,2016-02-24,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D131832,IND,,Whitman,Susan,,,,65 Wallis Rd,,Chestnut Hill,MA,024673174,,2016-01-06,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D137452,IND,,Bender,Deborah,,,,6018 E Cholla Ln,,Paradise Valley,AZ,852536902,,2016-02-21,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D170132,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170472,IND,,Brandon,Cheryl,,,,51 Catalpa Ave,,Mill Valley,CA,949412801,,2016-03-20,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D96243,IND,,Shurb,Jason,,,,3615 Trailway Park St,,San Antonio,TX,782472938,,2016-01-02,67.64,Contribution Refund,,,2016
+SB28A,C00586537,D139903,IND,,Baldinger,Jamie,,,,5405 Audubon Rd,,Bethesda,MD,208141203,,2016-02-22,300.0,Contribution Refund,,,2016
+SB28A,C00586537,D172753,IND,,Pritzker,Mary,Kathryn,,,1435 N Astor St,,Chicago,IL,606101608,,2016-03-25,652.8,Contribution Refund,,,2016
+SB28A,C00586537,D172813,IND,,Brookins,James,,,,6004 Windham Pl,,Tampa,FL,336471149,,2016-03-26,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D119343,IND,,Benz,Rainer,,,,Kuppelstrasse 30,Switzerland CH-8800,Thalwil,,,,2016-02-09,230.1,Contribution Refund,,,2016
+SB28A,C00586537,D157363,IND,,Grove,Andrew,,,,9228 37th Ave NE,,Marysville,WA,982707241,,2016-03-04,80.75,Contribution Refund,,,2016
+SB28A,C00586537,D136173,IND,,Jebara,Assad,,,,111 W 67th St,Apt 35A,New York,NY,100235960,,2016-02-20,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D157643,IND,,Pollard,Michael,,,,10161 Lake Vista Ct,,Parkland,FL,330764134,,2016-02-29,1250.0,Contribution Refund,,,2016
+SB28A,C00586537,D77293,IND,,Slater,Mark,,,,584 Castro St,,San Francisco,CA,941142512,,2016-01-11,27.0,Contribution Refund,,,2016
+SB28A,C00586537,D131833,IND,,O'Hara,James,T.,,,1610 44th St NW,,Washington,DC,200072025,,2016-01-20,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D170133,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170333,IND,,Sottile,Robert,,,,18241 Donmetz St,,Northridge,CA,913262514,,2016-03-19,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D170123,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170343,IND,,Hartmeyer,Rosarie,,,,11 Crown Ct,,Orinda,CA,945634206,,2016-03-19,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D73813,IND,,Matsuda,Roger,Shigeyo,,,4281 Express Lane,Suite N6542,Sarrasota,FL,34238,,2016-01-07,383.94,Contribution Refund,,,2016
+SB28A,C00586537,D177933,IND,,Kealoha,Joseph,,,,409 Liholiho St,,Wailuku,HI,967932613,,2016-03-29,120.0,Contribution Refund,,,2016
+SB28A,C00586537,D160634,IND,,Lami,Lianne,,,,12711 Pine Dr,,Cypress,TX,774292709,,2016-03-07,300.0,Contribution Refund,,,2016
+SB28A,C00586537,D179674,IND,,Hess,Natalie,,,,156 Meadow Ridge Townhomes,,Morgantown,WV,265053080,,2016-03-30,67.34,Contribution Refund,,,2016
+SB28A,C00586537,D139904,IND,,Baldinger,Jamie,,,,5405 Audubon Rd,,Bethesda,MD,208141203,,2016-02-22,200.0,Contribution Refund,,,2016
+SB28A,C00586537,D172374,IND,,Waymire,Ronald,,,,118 Marr Ct,,Crown Point,IN,463074611,,2016-03-22,50.0,Contribution Refund,,,2016
+SB28A,C00586537,D92134,IND,,Carpenter,Lilian,,,,Augustinergasse 50,Switzerland 8001,Zurich,,,,2016-01-15,135.65,Contribution Refund,,,2016
+SB28A,C00586537,D119344,IND,,Neumayer,Zoe,,,,Attn: Donna Morrow University of A,,Tuscaloosa,AL,354870001,,2016-02-09,35.0,Contribution Refund,,,2016
+SB28A,C00586537,D173024,IND,,Titterton,Alena,,,,111/123 Macquarie street,"Australia, 2000",Sydney,,,,2016-03-26,116.8,Contribution Refund,,,2016
+SB28A,C00586537,D140874,IND,,Kline,Sarah,,,,360 Furman St,Apt 436,Brooklyn,NY,112014696,,2016-02-23,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D179804,IND,,Rogers,Linnea,,,,4156 Rice St,Apt 107,Lihue,HI,967661402,,2016-03-31,30.0,Contribution Refund,,,2016
+SB28A,C00586537,D173334,IND,,Hannon,Stephanie,,,,2893 24th St,,San Francisco,CA,941104234,,2016-03-28,45.0,Contribution Refund,,,2016
+SB28A,C00586537,D157374,IND,,Halimeh,Cheza,,,,229 Lakeview Dr,,Moon Twp,PA,151089775,,2016-03-04,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D142044,IND,,Anson,Andrew,,,,Suite RG 109 Parliament House,Australia 2600,Canberra,,,,2016-02-24,267.8,Contribution Refund,,,2016
+SB28A,C00586537,D179924,IND,,Jordan,Wayne,Douglas,,,468 14th St,Ste 1417,Oakland,CA,946122711,,2016-03-31,16200.0,Contribution Refund,,,2016
+SB28A,C00586537,D157644,IND,,Bruno,Frank,,,,23 Aster Rd,,Rocky Point,NY,117789534,,2016-02-29,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D179424,IND,,Gilmore,Erin,,,,615 N Hayworth Ave,3,Los Angeles,CA,900482350,,2016-03-30,18.0,Contribution Refund,,,2016
+SB28A,C00586537,D169434,IND,,Guodong,Ni,,,,"No. 332, Section 1, Daye Rd",Taoyuan District Taiwan 330,Taoyuan City,,,,2016-03-14,1396.85,Contribution Refund,,,2016
+SB28A,C00586537,D170124,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170134,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D169304,IND,,Brammer,Rusty,,,,211 Ashworth Dr,Apt 4,Waukee,IA,502639735,,2016-03-14,164.35,Contribution Refund,,,2016
+SB28A,C00586537,D177924,IND,,Carney,Clyde,,,,69 Russell St,,Canisteo,NY,148231041,,2016-03-29,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D170204,IND,,Binder,Sue,,,,201 W Ponce De Leon Ave,Unit 38,Decatur,GA,300303267,,2016-03-18,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D170464,IND,,Patashnik,Amy,,,,10388 Rue Riviere Verte,,San Diego,CA,921312229,,2016-03-20,200.0,Contribution Refund,,,2016
+SB28A,C00586537,D96245,IND,,Tucker,Roger,,,,59971 Cascadel Dr N,,North Fork,CA,936439409,,2016-01-06,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D134095,IND,,Galante,Donald,,,,28 Pine Dr,,Little Silver,NJ,077391622,,2016-02-18,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D118015,IND,,Feagin,Clairece,,,,48 Pamela Ln,,College Station,TX,778459445,,2016-02-08,61.85,Contribution Refund,,,2016
+SB28A,C00586537,D145115,IND,,Altman,Jeff,,,,141 Prince St,Apt 7,New York,NY,100125348,,2016-02-27,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D139915,IND,,Papadavid,Phyllis,,,,347 West End Lane,United Kingdom NW61LU,London,,,,2016-02-22,311.25,Contribution Refund,,,2016
+SB28A,C00586537,D124455,IND,,Pierson,Georgia,,,,105 Old Farm Rd,,Milford,NJ,088481778,,2016-02-12,250.0,Contribution Refund,,,2016
+SB28A,C00586537,D92135,IND,,Carpenter,Lilian,,,,Augustinergasse 50,Switzerland 8001,Zurich,,,,2016-01-15,70.09,Contribution Refund,,,2016
+SB28A,C00586537,D140875,IND,,Modigliani,Leah,,Ms.,,359 W 11th St,Apt 3A,New York,NY,100142397,,2016-02-23,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D157645,IND,,Bycoff,Lorne,,,,345 E 50th St,Apt 6F,New York,NY,100227913,,2016-02-29,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D142045,IND,,Anson,Andrew,,,,Suite RG 109 Parliament House,Australia 2600,Canberra,,,,2016-02-24,50.0,Contribution Refund,,,2016
+SB28A,C00586537,D157505,IND,,Moore,Andrew,,,,"Office of Bill Shorten, 4 Treasury",Australia 3002,East Melbourne,,,,2016-03-04,219.8,Contribution Refund,,,2016
+SB28A,C00586537,D73735,IND,,Matsuda,Roger,Shigeyo,,,4281 Express Lane,Suite N6542,Sarrasota,FL,34238,,2016-01-07,316.92,Contribution Refund,,,2016
+SB28A,C00586537,D170125,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170135,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D148685,IND,,Aguirre Palme,Adrian,,,,Almendros 415,Mexico 11700,Mexico City,,,,2016-02-29,235.45,Contribution Refund,,,2016
+SB28A,C00586537,D170345,IND,,Benjamin,Lewis,,,,12156 NW 9th Pl,,Coral Springs,FL,330715011,,2016-03-19,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D170545,IND,,Rosen,Abigail,,,,360 Clinton Ave,Apt 3S,Brooklyn,NY,112381169,,2016-03-21,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D116955,IND,,Matsuda,Roger,Shigeyo,,,4281 Express Lane,Suite N6542,Sarrasota,FL,34238,,2016-02-07,154.35,Contribution Refund,,,2016
+SB28A,C00586537,D165335,IND,,Dhingra,Manju,,,,80P Sector 34,India 122001,Gurgaon,,,,2016-03-10,4000.0,Contribution Refund,,,2016
+SB28A,C00586537,D161496,IND,,Soria,Henry,,,,2725 S Nellis Blvd,,Las Vegas,NV,891212089,,2016-03-08,290.9,Contribution Refund,,,2016
+SB28A,C00586537,D172386,IND,,Mcnamara,Daniel,,,,1015 Old Post Rd,Apt 2E,Mamaroneck,NY,105433965,,2016-03-23,55.55,Contribution Refund,,,2016
+SB28A,C00586537,D157326,IND,,Meijerman,Edo,,,,Mariotteplein 35-Huis,Netherlands 1098NX,Amsterdam,,,,2016-03-04,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D103776,IND,,Loiwrey,Andrew,,,,1007 N Calvert St,,Baltimore,MD,212023823,,2016-01-27,60.0,Contribution Refund,,,2016
+SB28A,C00586537,D157646,IND,,Grover,Alok,,,,4 Emil St,,Princeton Junction,NJ,085501342,,2016-02-29,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D97096,IND,,Schnydrig,Richard,,,,Bahnhofplatz 1,Switzerland 3900,Brig,,,,2016-01-20,182.6,Contribution Refund,,,2016
+SB28A,C00586537,D77416,ORG,Natural Food Source,,,,,,52 E Union Blvd,,Bethlehem,PA,180184079,,2016-01-08,35000.0,Contribution Refund,,,2016
+SB28A,C00586537,D142036,IND,,Zuvich,Regina,,,,845 Summit Ave,,River Edge,NJ,076612330,,2016-02-24,11.0,Contribution Refund,,,2016
+SB28A,C00586537,D169476,IND,,Moses,Arthur,,,,126 Phillip Street Level 34,"Australia, 2000",Sydney,,,,2016-03-14,707.45,Contribution Refund,,,2016
+SB28A,C00586537,D170056,IND,,Murray,Maureen,,,,2719 Woodley Pl NW,,Washington,DC,200081518,,2016-03-17,35.0,Contribution Refund,,,2016
+SB28A,C00586537,D170126,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D170136,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D166337,IND,,Rogers,Kristina,,,,807 Bronson Ln,,Highland Park,IL,600354715,,2016-03-11,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D112867,IND,,Cherkasov,Nikolay,,,,81 Washington Ave,,Cliffside Park,NJ,070103026,,2016-02-04,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D172367,IND,,Austin,Victoria,,,,5314 Crown Ct,,Castro Valley,CA,945522616,,2016-03-22,400.0,Contribution Refund,,,2016
+SB28A,C00586537,D172387,IND,,Mcnamara,Daniel,,,,1015 Old Post Rd,Apt 2E,Mamaroneck,NY,105433965,,2016-03-23,52.24,Contribution Refund,,,2016
+SB28A,C00586537,D156317,IND,,Walker,Arti,,,,435 N Lombard Ave,Apt 3,Oak Park,IL,603025304,,2016-03-03,98.44,Contribution Refund,,,2016
+SB28A,C00586537,D140877,IND,,Pogrebin,Letty,Cottin,,,33 W 67th St,,New York,NY,100236224,,2016-02-23,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D173337,IND,,Fogel,Bradley,,,,28 Washington Ter,,Saint Louis,MO,631121914,,2016-03-28,15.0,Contribution Refund,,,2016
+SB28A,C00586537,D173417,IND,,Arends,Cynthia,,,,616 Warwick St,,Saint Paul,MN,551161540,,2016-03-28,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D162687,IND,,Bongiorno,Mary,,,,177 N Broome Ave,,Lindenhurst,NY,117574131,,2016-03-09,500.0,Contribution Refund,,,2016
+SB21B,C00586537,D173462,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-02-29,21.96,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173472,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,556091.38,Direct Marketing,,,2016
+SB21B,C00586537,D173482,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,13878.67,Direct Marketing,,,2016
+SB21B,C00586537,D173492,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,4574.94,Direct Marketing,,,2016
+SB21B,C00586537,D173502,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,22797.8,Direct Marketing,,,2016
+SB21B,C00586537,D173512,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-12,1494.52,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173522,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,465.99,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173542,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-02,1472.7,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173552,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-12,565.17,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173562,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-22,23.54,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173572,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-02-19,1628.69,Direct Marketing,,,2016
+SB21B,C00586537,D173582,ORG,PDQ Printing of Las Vegas,,,,,,3820 S Valley View Blvd,,Las Vegas,NV,891032904,,2016-02-19,2890.96,Printing,,,2016
+SB21B,C00586537,D173592,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-22,19.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173602,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-10,5.24,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173612,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-01-28,10000.0,Online Advertising,,,2016
+SB21B,C00586537,D173622,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-01-14,15966.99,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173632,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-03,11.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173652,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-25,338.06,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173662,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-01-28,1713.46,Direct Marketing,,,2016
+SB21B,C00586537,D173672,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-04,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173682,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-28,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D184862,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-05,9017.0,Direct Marketing,,,2016
+SB21B,C00586537,D180622,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-02,54.71,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180632,ORG,Awlwood Production Services Inc.,,,,,,450 Snake Den Rd,,West Milford,NJ,074804316,,2016-03-07,1250.0,Event Production,,,2016
+SB21B,C00586537,D173532,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,3114.22,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180642,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,5336.26,Direct Marketing,,,2016
+SB21B,C00586537,D173642,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-13,452.96,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180652,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,25035.3,Direct Marketing,,,2016
+SB21B,C00586537,D180662,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,7510.98,Direct Marketing,,,2016
+SB21B,C00586537,D180673,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,3600.0,Direct Marketing,,,2016
+SB21B,C00586537,D180683,ORG,Cybersource,,,,,,PO Box 8999,,San Francisco,CA,941288999,,2016-03-26,995.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180693,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-07,4558.98,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180703,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,3706.82,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180713,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,739.49,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180723,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-24,4427.61,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180733,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,3570.77,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180743,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,1900.37,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180753,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,1302.33,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180763,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-02,1549.3,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180773,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-12,985.72,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180783,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-22,404.01,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180793,ORG,J Bondi Inc,,,,,,1212 Avenue of the Americas,Fl 7,New York,NY,100361600,,2016-03-07,17018.56,Event Production,,,2016
+SB21B,C00586537,D180803,ORG,Madison Square Garden,,,,,,1260 Avenue of the Americas,,New York,NY,100201701,,2016-03-02,242927.46,Event Production,,,2016
+SB21B,C00586537,D180813,ORG,Postmaster,,,,,,421 8th Ave,,New York,NY,100017800,,2016-03-29,50000.0,Postage,,,2016
+SB21B,C00586537,D180823,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-14,35.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180833,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-30,0.75,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173463,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,2016-02-25,1875.31,Bank Fees,,,2016
+SB21B,C00586537,D173473,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,922.5,Direct Marketing,,,2016
+SB21B,C00586537,D173483,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,400.0,Direct Marketing,,,2016
+SB21B,C00586537,D173493,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,14044.42,Direct Marketing,,,2016
+SB21B,C00586537,D173513,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-12,2566.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173523,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,3644.5,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173533,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,7764.1,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173543,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-03,577.36,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173553,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-13,857.79,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173563,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-23,627.21,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173573,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-02-19,1503.6,Direct Marketing,,,2016
+SB21B,C00586537,D173593,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-23,3.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173603,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-13,6.49,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173613,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-06,551095.42,Direct Marketing,,,2016
+SB21B,C00586537,D173623,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-01-21,26717.89,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173633,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-04,34.31,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173643,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-14,435.51,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173653,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-26,8.71,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173673,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-07,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173683,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-01-07,7522.0,Tax Processing and Registration,,,2016
+SB21B,C00586537,D180623,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-06,17.6,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180633,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-07,109500.0,Online Advertising,,,2016
+SB21B,C00586537,D173503,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,48719.49,Direct Marketing,,,2016
+SB21B,C00586537,D173583,ORG,Postmaster,,,,,,421 8th Ave,,New York,NY,100017800,,2016-02-03,30000.0,Postage,,,2016
+SB21B,C00586537,D180643,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,8790.41,Direct Marketing,,,2016
+SB21B,C00586537,D180653,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,10120.76,Direct Marketing,,,2016
+SB21B,C00586537,D180663,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,20558.59,Direct Marketing,,,2016
+SB21B,C00586537,D173554,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-14,51.73,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180674,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,6170.68,Direct Marketing,,,2016
+SB21B,C00586537,D180684,ORG,Cybersource,,,,,,PO Box 8999,,San Francisco,CA,941288999,,2016-03-26,4490.0,Database Services,,,2016
+SB21B,C00586537,D180694,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,336.81,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180704,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,530.81,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180714,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,900.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180724,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-24,63.56,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180734,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,25967.74,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180744,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,33386.73,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180754,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,2072.15,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180764,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-03,879.24,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180774,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-14,1.85,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180784,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-23,1339.04,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180794,ORG,Joja Touring,,,,,,45 Broadway,Ste 2230,New York,NY,100063715,,2016-03-31,8954.16,Event Production,,,2016
+SB21B,C00586537,D180804,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-03-18,40005.59,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180814,ORG,PRG,,,,,,1245 Aviation Pl,,San Fernando,CA,913401459,,2016-03-31,3250.0,Event Production,,,2016
+SB21B,C00586537,D180824,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-17,114350.15,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180834,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-31,67.5,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173464,ORG,Amalgamated Bank,,,,,,275 7th Ave,,New York,NY,100016708,,2016-02-26,439.97,Bank Fees,,,2016
+SB21B,C00586537,D173474,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-16,5036.55,Direct Marketing,,,2016
+SB21B,C00586537,D173484,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-19,9799.21,Direct Marketing,,,2016
+SB21B,C00586537,D173494,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,11325.97,Direct Marketing,,,2016
+SB21B,C00586537,D173504,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-02-26,1118.49,Direct Marketing,,,2016
+SB21B,C00586537,D173514,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-19,2176.0,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173524,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,3252.5,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173534,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-02-26,5727.65,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173544,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-04,316.41,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173564,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-02-24,635.79,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173574,ORG,Madison Square Garden,,,,,,1260 Avenue of the Americas,,New York,NY,100201701,,2016-02-22,75000.0,Venue,,,2016
+SB21B,C00586537,D173584,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-05,5.0,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173594,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-02-24,5.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173604,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-01-18,0.6,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173614,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-01-07,166616.74,Direct Marketing,,,2016
+SB21B,C00586537,D173624,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-01-28,15836.72,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D173634,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-05,219.98,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173644,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-15,464.41,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173654,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-01-27,938.47,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173674,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-01-11,0.25,Revenue Processing Fees,,,2016
+SB21B,C00586537,D173684,ORG,Vertex Inc.,,,,,,25528 Network Pl,,Chicago,IL,606731255,,2016-01-14,18736.86,Tax Processing and Registration,,,2016
+SB21B,C00586537,D180624,PAC,ActBlue,,,,,,PO Box 441146,,West Somerville,MA,021440031,,2016-03-09,101.09,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180634,ORG,Bully Pulpit Interactive LLC,,,,,,1140 Connecticut Ave NW,Ste 800,Washington,DC,200364010,,2016-03-07,1984500.0,Online Advertising,,,2016
+SB21B,C00586537,D173664,ORG,Merkle,,,,,,100 Jamison Ct,,Hagerstown,MD,217405185,,2016-01-08,28622.48,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180644,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-07,14926.66,Direct Marketing,,,2016
+SB21B,C00586537,D180654,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,54243.68,Direct Marketing,,,2016
+SB21B,C00586537,D180664,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-18,14282.6,Direct Marketing,,,2016
+SB21B,C00586537,D180675,ORG,Chapman Cubine Adams + Hussey,,,,,,2000 15th St N,Ste 550,Arlington,VA,222012900,,2016-03-31,1060.99,Direct Marketing,,,2016
+SB21B,C00586537,D180685,IND,,Pukala,Danielle,,,,708 Steamboat Rd,Apt 18,Greenwich,CT,068307151,,2016-03-07,750.0,Event Production,,Vendor Services,2016
+SB21B,C00586537,D180695,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,839.02,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180705,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,2356.49,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180715,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-18,1328.64,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180725,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-28,968.74,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180735,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,167.93,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180745,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,4248.36,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180755,ORG,Financial Innovations,,,,,,1 Weingeroff Blvd,,Cranston,RI,029104019,,2016-03-31,3130.05,Merchandise Fulfillment,,,2016
+SB21B,C00586537,D180765,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-04,844.18,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180775,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-14,47.47,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180785,ORG,Ignite Payments,,,,,,PO Box 5180,,Simi Valley,CA,930625180,,2016-03-24,482.03,Revenue Processing Fees,,,2016
+SB21B,C00586537,D180795,ORG,L&E Meridian,,,,,,7400 Fullerton Rd,Ste 110,Springfield,VA,221532830,,2016-03-07,1691.59,Direct Marketing,,,2016
+SB21B,C00586537,D180805,ORG,Monarch Rentals,,,,,,PO Box 4120,,Roselle Park,NJ,072040620,,2016-03-18,2800.0,Equipment Rental,,,2016
+SB21B,C00586537,D180815,ORG,Stripe,,,,,,3180 18th St,,San Francisco,CA,941102043,,2016-03-01,6.0,Revenue Processing Fees,,,2016
+SB28A,C00586537,D173348,IND,,Rogers,Kristina,,,,807 Bronson Ln,,Highland Park,IL,600354715,,2016-03-28,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D142038,IND,,Pecci,Eileen,,,,41 Deer Ridge Rd,,Mashpee,MA,026492425,,2016-02-24,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D137518,IND,,Emmerson,Marie,,,,1416 Orchid Ct,,Lafayette,CO,800262859,,2016-02-21,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D137668,IND,,LaBahn,Kathleen,,,,1636 Old Arcata Rd,,Bayside,CA,955249301,,2016-02-21,50.0,Contribution Refund,,,2016
+SB28A,C00586537,D148548,IND,,Levenson,Tamara,,,,11401 Bolas St,,Los Angeles,CA,900493419,,2016-02-29,30.0,Contribution Refund,,,2016
+SB28A,C00586537,D98287,IND,,McGillivray,Lois,,,,23 Strawberry Hill Rd,,Natick,MA,017603635,,2016-01-16,359.91,Contribution Refund,,,2016
+SB28A,C00586537,D157327,IND,,Plattus,Danielle,,,,5 Brittany Close,,Scarsdale,NY,105837923,,2016-03-04,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D157357,IND,,Cerwin,Michele,,,,315 E 72nd St,Apt 3L,New York,NY,100214638,,2016-03-04,282.55,Contribution Refund,,,2016
+SB28A,C00586537,D157507,IND,,Scardino,Gerard,,,,2600 Westridge St,Apt 180,Houston,TX,770541540,,2016-03-04,243.2,Contribution Refund,,,2016
+SB28A,C00586537,D141897,IND,,Toler,Jill,,,,92 Harkness Rd,,Pelham,MA,010029780,,2016-02-24,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D131807,IND,,Barbour,Justin,,,,14601 North Bybee Lake Court,Suite SM-2219-935X,Portland,OR,97203,,2016-02-16,212.55,Contribution Refund,,,2016
+SB28A,C00586537,D137447,IND,,Blasko,Peter,P.,,,1812 Broadway,,San Francisco,CA,941092212,,2016-02-21,900.0,Contribution Refund,,,2016
+SB28A,C00586537,D137517,IND,,Albrecht,Judith,,,,10 Rivers Edge Pl,,Methuen,MA,018446341,,2016-02-21,100.0,Contribution Refund,,,2016
+SB28A,C00586537,D137667,IND,,LaBahn,Kathleen,,,,1636 Old Arcata Rd,,Bayside,CA,955249301,,2016-02-21,50.0,Contribution Refund,,,2016
+SB28A,C00586537,D148447,IND,,Croker,John,,,,14601 N Bybee Lake Ct,Ste SM-2136-7739,Portland,OR,972036629,,2016-02-29,230.35,Contribution Refund,,,2016
+SB28A,C00586537,D143207,IND,,Mills,Erin,,,,"188 St Heliers Bay Rd, Mills Surgi",New Zealand 1071,Auckland,,,,2016-02-25,278.6,Contribution Refund,,,2016
+SB28A,C00586537,D170127,IND,,Camposeo,Elaine,,,,445 Center St,,Manchester,CT,060403925,,2016-03-16,16.0,Contribution Refund,,,2016
+SB28A,C00586537,D148687,IND,,Izor,Sean,,,,60 Fairfield Road,United Kingdom E32UG,London,,,,2016-02-29,228.55,Contribution Refund,,,2016
+SB28A,C00586537,D170177,IND,,Nyangoro,Seppy,,,,9020 Church St E,,Brentwood,TN,370275283,,2016-02-12,344.95,Contribution Refund,,,2016
+SB28A,C00586537,D170187,IND,,Wallet,Christine,,,,126 Broad St,,Perkasie,PA,189442844,,2016-03-18,25.0,Contribution Refund,,,2016
+SB28A,C00586537,D148767,IND,,Kelly,Cassandra,,,,50 W 91st St,,New York,NY,100241410,,2016-02-29,1000.0,Contribution Refund,,,2016
+SB28A,C00586537,D170237,IND,,Titterton,Alena,,,,111/123 Macquarie street,"Australia, 2000",Sydney,,,,2016-03-18,91.8,Contribution Refund,,,2016
+SB28A,C00586537,D170657,IND,,Williams,Bethany,,,,1020 Gracewood Dr,,Libertyville,IL,600482520,,2016-03-22,35.0,Contribution Refund,,,2016
+SB28A,C00586537,D122147,IND,,Krystek,Bethany,,,,19 Tricia Blvd,,Highland,NY,125282637,,2016-02-11,55.0,Contribution Refund,,,2016
+SB28A,C00586537,D179678,IND,,Wachs,Josh,,Mr.,,3403 36th St NW,,Washington,DC,200163147,,2016-03-30,2700.0,Contribution Refund,,,2016
+SB28A,C00586537,D156268,IND,,Fisher,Caitlin,,,,50 Corona Ave,Canada K1M1K7,Ottawa,ON,,,2016-03-03,200.4,Contribution Refund,,,2016
+SB28A,C00586537,D172378,IND,,Fullerton,Fred,,,,3203 Oak Hill Ct,,Russellville,AR,728027956,,2016-03-23,30.0,Contribution Refund,,,2016
+SB28A,C00586537,D140848,IND,,Yoder,Eric,,,,408 W 34th St,5F,New York,NY,100012316,,2016-02-23,500.0,Contribution Refund,,,2016
+SB28A,C00586537,D124678,IND,,Wiley,Anita,,,,1501 Old Black Horse Pike,Apt U5,Blackwood,NJ,080124918,,2016-02-12,100.0,Contribution Refund,,,2016
